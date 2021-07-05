@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'gulax';
+  src:  url('https://ghcdn.rawgit.org/liminalfun/fonts/8d9b3d901ca571e8c5cd23463c86688115eb99c8/Gulax-master/fonts/webfonts/Gulax-Regular.woff2') format('woff2'),
+        url('https://ghcdn.rawgit.org/liminalfun/fonts/main/Gulax-master/fonts/webfonts/Gulax-Regular.woff') format('woff'),
+        url('https://ghcdn.rawgit.org/liminalfun/fonts/main/Gulax-master/fonts/webfonts/Gulax-Regular.eot');
+  font-weight: normal;
+  font-style: normal;
+} 

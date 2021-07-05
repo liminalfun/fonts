@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'hk-grotesk';
+  src:  url('https://ghcdn.rawgit.org/liminalfun/fonts/main/HKGrotesk_2466/WEB/HKGrotesk-Medium.woff2') format('woff2'),
+        url('https://ghcdn.rawgit.org/liminalfun/fonts/main/HKGrotesk_2466/WEB/HKGrotesk-Medium.woff') format('woff'),
+        url('https://ghcdn.rawgit.org/liminalfun/fonts/main/HKGrotesk_2466/WEB/HKGrotesk-Medium.eot');
+  font-weight: normal;
+  font-style: normal;
+} 
